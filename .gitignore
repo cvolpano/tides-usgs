@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 # Avoid NetCDF files
+=======
+>>>>>>> bbebe9be09fc1faec311f8060f81404eae0269da
 *.nc
 *.gz
 *.xz
 *.f
 *.zip
 *.nc.xz
+<<<<<<< HEAD
 *Identifier
+=======
+*.Identifier
+>>>>>>> bbebe9be09fc1faec311f8060f81404eae0269da
