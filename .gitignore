@@ -1,4 +1,4 @@
-l<<<<<<< HEAD
+ll<<<<<<< HEAD
 # Avoid NetCDF files
 =======
 >>>>>>> bbebe9be09fc1faec311f8060f81404eae0269da
@@ -7,7 +7,7 @@ l<<<<<<< HEAD
 *.xz
 *.f
 *.zip
-.d
+*.d
 *.nc.xz
 <<<<<<< HEAD
 *Identifier
