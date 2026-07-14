@@ -1,0 +1,15 @@
+engine: darwin
+radial:
+  cartesian:
+    paths:
+      K1: fes2022b/load_tide/k1_fes2022/k1_fes2022.nc
+      M2: fes2022b/load_tide/m2_fes2022/m2_fes2022.nc
+      O1: fes2022b/load_tide/o1_fes2022/o1_fes2022.nc
+      S2: fes2022b/load_tide/s2_fes2022/s2_fes2022.nc
+tide:
+  cartesian:
+    paths:
+      K1: fes2022b/ocean_tide_extrapolated/k1_fes2022/k1_fes2022.nc
+      M2: fes2022b/ocean_tide_extrapolated/m2_fes2022/m2_fes2022.nc
+      O1: fes2022b/ocean_tide_extrapolated/o1_fes2022/o1_fes2022.nc
+      S2: fes2022b/ocean_tide_extrapolated/s2_fes2022/s2_fes2022.nc

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../runup-Chelsea/DATA/DATA/results/netcdf"
+		},
+		{
+			"path": "../../../mnt/c/Users/cvolpano/CoastCam/CACO-waves/nanopod/data"
+		},
+		{
+			"path": "../../../mnt/c/Users/cvolpano/CoastCam/CACO-waves/nanopod"
+		},
+		{
+			"path": "../runup-Chelsea"
+		}
+	],
+	"settings": {}
+}

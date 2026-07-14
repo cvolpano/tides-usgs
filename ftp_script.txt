@@ -1,0 +1,1 @@
+wget -m --ftp-user=cvolpano@contractor.usgs.gov --ftp-password=rXnfHI ftp://ftp-access.aviso.altimetry.fr/auxiliary/tide_model/fes2022b
