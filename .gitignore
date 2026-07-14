@@ -1,0 +1,8 @@
+# Avoid NetCDF files
+*.nc
+*.gz
+*.xz
+*.f
+*.zip
+*.nc.xz
+*Identifier
