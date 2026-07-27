@@ -9,6 +9,8 @@ ll<<<<<<< HEAD
 *.zip
 *.d
 *.nc.xz
+/ttide_py-master
+/tide_models
 <<<<<<< HEAD
 *Identifier
 =======
